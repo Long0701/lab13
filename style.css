@@ -1,0 +1,21 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url("https://halotravel.vn/wp-content/uploads/2021/09/anh-phong-canh-dep-1.jpg");
+    margin-top: 56px;
+    height: calc(100vh - 56px)
+}
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url('https://halotravel.vn/wp-content/uploads/2021/09/anh-phong-canh-dep-2.jpg');
+    margin-top: 56px;
+    height: calc(100vh - 56px)
+}
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url('https://halotravel.vn/wp-content/uploads/2021/09/anh-phong-canh-dep-3.jpg');
+    margin-top: 56px;
+    height: calc(100vh - 56px)
+}
